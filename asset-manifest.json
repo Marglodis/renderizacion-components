@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Marglodis/renderizacion-components/static/css/main.ed5e3518.css",
+    "main.js": "/Marglodis/renderizacion-components/static/js/main.147412d0.js",
+    "index.html": "/Marglodis/renderizacion-components/index.html",
+    "main.ed5e3518.css.map": "/Marglodis/renderizacion-components/static/css/main.ed5e3518.css.map",
+    "main.147412d0.js.map": "/Marglodis/renderizacion-components/static/js/main.147412d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed5e3518.css",
+    "static/js/main.147412d0.js"
+  ]
+}
